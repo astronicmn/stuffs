@@ -16,7 +16,7 @@
 	
 	REFERÊNCIAS: 
 		Código realizado para o experimento 8 da cadeira de
-        Física Experimental III.
+        	Física Experimental III.
 	
 	BUGS/LIMITAÇÕES:
 
