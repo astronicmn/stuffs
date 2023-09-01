@@ -3,8 +3,12 @@
 """
 	Gráfico Impedância versus Frequência.
     
-    Impedância em função da frequência para um circuito RLC
-    (resistor, indutor e capacitor) em corrente alternada.
+    	Impedância em função da frequência para um circuito RLC
+    	(resistor, indutor e capacitor) em corrente alternada.
+	------------------------------------------------------------------
+     	Code developed for Experiment 8 of the course Experimental Physics III.
+	Impedance as a function of frequency for an RLC circuit
+	(resistor, inductor, and capacitor) under alternating current.
 
 	AUTOR:
 		N. M. Narvaz
