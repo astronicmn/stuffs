@@ -1,15 +1,5 @@
 reference,Name,Manufacturer,Order ID,Retailer,Quantity,Observation 1,Observation 2
 ,,,,,,,
-,Solenoid (either 2 ms or 7 ms model),FESTO,MHE2-M1SH-3/2G-M7-K-RR,Kiowa,1,Pneumatics,2 ms response + cable
-,Precision pressure regulator,FESTO,LRP-1/4-4,RS,1,Pneumatics,0.05 to 4.0 bar
-,Gauge,FESTO,MAP-40-4-1/8-EN,Kiowa,1,Pneumatics,"0.0 to 4.0 bar, 1/8 inch thread"
-,"Push-in (6 mm) to thread (1/4"")",FESTO,QSL-1/4-6,RS,1,Pneumatics,6 mm to 1/4 inch
-,"Push-in (4 mm) to thread (1/4"")",FESTO,QS-1/4-4,RS,1,Pneumatics,4 mm to 1/4 inch
-,Push-in (4 mm) to thread (M7),FESTO,QSM-M7-4-I,RS,2,Pneumatics,4 mm to M7 thread
-,4mm OD plastic tubing,FESTO,PUN-4x0.75,RS,12 cm,Pneumatics,4 mm OD and 10 bar
-,PicoNozzle Kit,World Precision Instrument,5430 - x,WPI,1,Pneumatics,for 1.0 / 1.2 / 1.5 / 2.0 mm glass pipettes
-,,,,,,,
-A1,Arduino Nano,Arduino,,RS,1,Electronics,nano
 A1,PCB socket,Samtec,SSW-116-02-G-S ,RS,2,Electronics,"1 row, 15 pin"
 ,Darlington pair NPN transistor,Fairchild,KSP 13BU,Farnell,1,Electronics,"Ic = 500 mA, Vces = 30 V"
 RV1,1 k ohm variable resistor,Vishay,249FGJSPXB25102KA�,RS,1,Electronics,panel mount
@@ -39,7 +29,3 @@ SW2,3 way JST PCB header,RS Online,820-1557,JST,1,Electronics,
 ,Shrink tube,RS Online,170-6377,RS,5 cm,Electronics,Shrunk diameter 1.2 mm
 ,Rocker LED switch,,,Ebay,1,Electronics,Round Switch / 3 pins
 ,,,,,,,
-,M3 x 10mm screw,RS Online,660-4636,RS,4,Mechanical,M3 x 10 Hex socket cap
-,M3 nut,RS Online,122-4400,RS,4,Mechanical,M3 nuts
-,M4 x 50mm Hex Socket Cap Screws,RS Online,304-4592,RS,4,Mechanical,M4 x 50
-,M4 nut,RS Online,189-579,RS,4,Mechanical,M4 nuts
