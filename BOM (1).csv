@@ -11,7 +11,7 @@ D3,24 V Zener Diode,Semiconductor,1N5359BG,Farnell,1,Electronics,24V
 D2,1N4148 signal diode,Fairchild,1n4148,Farnell,1,Electronics,24V
 R4;R5;R6,1 k ohm resistor,Digikey,CF14JT1K00,Digikey,3,Electronics,1 k? through hole resistor
 R1;R2;R3,220 ohm resistor,Stackpole electronics,CF14JT220R ,Digikey,3,Electronics,220 ? through hole resistor
-,Voltage step-down regulator,RS Online,533-3743,RS,1,Electronics,"5V, 3A"
+,Voltage step-down regulator,RS Online,LM2596T-5.0/NOPB,RS,1,Electronics,"5V, 3A"
 C1,Capacitor 680 uF,RS Online,526-1569,RS,1,Electronics,24V minimum
 C2,Capacitor 220 uF,RS Online,526-1480,RS,1,Electronics,24V minimum
 D4,Diode 1N5824,RS Online,714-6819�,RS,1,Electronics,24V minimum
