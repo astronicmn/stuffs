@@ -16,8 +16,8 @@ C1,Capacitor 680 uF,RS Online,EEUFM1E681,RS,1,Electronics,24V minimum
 C2,Capacitor 220 uF,RS Online,EEUFM1E221,RS,1,Electronics,24V minimum
 D4,Diode 1N5824,RS Online,1N5822RL,RS,1,Electronics,24V minimum
 L1,Inductor 33 uH,Bourns,RLB0914-330KL,Farnell,1,Electronics,
-,3 mm LED,Digikey,350-1557-ND,Digikey,1,Electronics,"3mm round, throughhole, grn"
-,Mount for 3 mm LED,Digikey,67-1330-ND,Digikey,1,Electronics,3mm panel mount
+,3 mm LED,Digikey,5219210F,Digikey,1,Electronics,"3mm round, throughhole, grn"
+,Mount for 3 mm LED,Digikey,SSH-LX3050,Digikey,1,Electronics,3mm panel mount
 J1;J4,BNC coaxial connectors,TE Connectivity,1-1337542-0,Farnell,2,Electronics,"Right angle jacks, 50ohm"
 ,Cable Mount BNC Connector,RS Online,546-3721,RS,1,Electronics,Plug Crimp Termination
 "J3,D1",2 way JST Female Connector Housing,RS Online,820-1611,JST,2,Electronics,
