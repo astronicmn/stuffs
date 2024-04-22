@@ -1,4 +1,4 @@
-reference,Name,Manufacturer,Order ID,Retailer,Quantity,Observation 1,Observation 2
+reference,Name,Manufacturer,PartNumber,Retailer,Quantity,Observation 1,Observation 2
 ,,,,,,,
 A1,PCB socket,Samtec,SSW-116-02-G-S ,RS,2,Electronics,"1 row, 15 pin"
 ,Darlington pair NPN transistor,Fairchild,KSP 13BU,Farnell,1,Electronics,"Ic = 500 mA, Vces = 30 V"
