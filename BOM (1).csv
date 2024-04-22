@@ -1,7 +1,7 @@
-reference,Name,Manufacturer,Order ID,Retailer,Quantity,Observation 1,Observation 2
+reference,Name,Manufacturer,Order ID,Retailer,Quantity,Observation 1,Observation 2,partnumber
 ,,,,,,,
 A1,PCB socket,Samtec,SSW-116-02-G-S ,RS,2,Electronics,"1 row, 15 pin"
-,Darlington pair NPN transistor,Fairchild,KSP 13BU,Farnell,1,Electronics,"Ic = 500 mA, Vces = 30 V"
+,Darlington pair NPN transistor,Fairchild,KSP 13BU,Farnell,1,Electronics,"Ic = 500 mA, Vces = 30 V",KSP13BU
 RV1,1 k ohm variable resistor,Vishay,249FGJSPXB25102KA�,RS,1,Electronics,panel mount
 ,Knob for variable resistor,RS Online,783-0192,TE Connectivity,1,Electronics,6.35mm shaft radius
 SW1,DPDT switch,Multicomp,2MD3T2B2M6RE,Farnell,1,Electronics,ON-(OFF)-ON panel mount
