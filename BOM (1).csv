@@ -6,7 +6,7 @@ RV1,1 k ohm variable resistor,Vishay,249FGJSPXB25102KA�,RS,1,Electronics,panel
 ,Knob for variable resistor,RS Online,PKA50B1/4,TE Connectivity,1,Electronics,6.35mm shaft radius
 SW1,DPDT switch,Multicomp,2MD3T2B2M6RE,Farnell,1,Electronics,ON-(OFF)-ON panel mount
 ,SPST footswitch,RS Online,335-319,RS,1,Electronics,push-to-contact
-,2.1 mm right angle DC socket,RS Online,884-0957,RS,1,Electronics,2.1 mm right angle
+J2,2.1 mm right angle DC socket,RS Online,884-0957,RS,1,Electronics,2.1 mm right angle
 D3,24 V Zener Diode,Semiconductor,1N5359BG,Farnell,1,Electronics,24V
 D2,1N4148 signal diode,Fairchild,1n4148,Farnell,1,Electronics,24V
 R4;R5;R6,1 k ohm resistor,Digikey,CF14JT1K00,Digikey,3,Electronics,1 k? through hole resistor
